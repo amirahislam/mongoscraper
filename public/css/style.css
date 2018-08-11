@@ -1,0 +1,20 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
+.btn, .btn-warning, .btn-danger { 
+    size: 200px;
+}
+
+.titleArticles {
+    text-align: center;
+}
+
+#topButton1 {
+    margin-left: 750px;
+}
+
+#topButton2 {
+    margin-left: 20px;
+}
